@@ -1,0 +1,9 @@
+@import "Index.css";
+
+.title {
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 100px auto;
+    color: white;
+}
